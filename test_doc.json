@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "source_file": "test_doc.docx",
+    "converted_at": "2025-09-21T09:48:45.875215",
+    "total_paragraphs": 3,
+    "content_paragraphs": 3
+  },
+  "content": {
+    "Name": "John Doe",
+    "Age": "30",
+    "City": "New York"
+  }
+}
